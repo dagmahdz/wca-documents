@@ -1,179 +1,198 @@
-# <wca-title>WCA Guidelines
+# <wca-title>WCA Directrices 2014
 
-<version>Version: April 3, 2014
-
-
-## Notes
-
-### WCA Regulations
-
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
-
-### Numbering
-
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
-
-### Labels
-
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
-- <label>[EXAMPLE] An example of how to apply a Regulation.
+<version>Versión: Abril 3, 2014
 
 
-## <contents> [Contents](guidelines:contents)
+## Notas
+
+### Reglamento de la WCA
+
+Las Directrices de la WCA son un complemento al [Reglamento de la WCA](regulations:top). Favor de leer el Reglamento para más información.
+
+### Numeración
+
+Las Directrices se numeran en correspondencia a las reglas con las que están relacionadas. Nótese que varias Directrices pueden corresponder a la misma Regla, y algunas corresponden a Reglas que ya no existen. 
+
+### Etiquetas
+
+Para que sea más claro e informativo, cada Directriz se clasifica usando una de las siguientes etiquetas. Nótese que esto sólo debe ser considerado como información adicional, no como descripción de su importancia. 
+
+- <label>[ADICIÓN] Información adicional que complementa al Reglamento.
+- <label>[ACLARACIÓN] Información para dar respuesta a posibles dudas sobre la interpretación del Reglamento. 
+- <label>[EXPLICACIÓN] Información que aclara el propósito del Reglamento. 
+- <label>[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debería hacerse de ser posible. 
+- <label>[RECORDATORIO] Información que se encuentra en otras Reglas o Directrices, pero cuya relevancia hace que merezca ser reiterada.
+- <label>[EJEMPLO] Un ejemplo de cómo aplicar una Regla. 
+
+
+## <contents> [Contenido](guidelines:contents)
 
 <table-of-contents>
 
-
-## <article-1><officials><officials> Article 1: Officials
-
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3++) [ADDITION] Physical records (e.g. score cards, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- Artículo 1: [Miembros Oficiales](regulations:article-1:officials) 
+- Artículo 2: [Competidores](regulations:article-2:competitors) 
+- Artículo 3: [Puzzles](regulations:article-3:puzzles)
+- Artículo 4: [Mezclas (“Scrambles”)](regulations:article-4:scrambling)
+- Artículo 5: [Desperfectos de puzzles](regulations:article-5:puzzle-deffects)
+- Artículo 6: [Galardones/Premios/Distinciones](regulations:article-6:awards-prizes-honours)
+- Artículo 7: [Entorno](regulations:article-7:environment) 
+- Artículo 8: [Competencias](regulations:article-8:competitions)
+- Artículo 9: [Eventos](regulations:article-9:events)
+- Artículo 10: [Estado resuelto de un puzzle](regulations:article-10:solved-state)
+- Artículo 11: [Incidentes](regulations:article-11:incidents)
+- Artículo 12: [Notación](regulations:article-12:notation)
+- Artículo A: [Speed Solving](regulations:article-a:speedsolving) 
+- Artículo B: [Resolución a ciegas](regulations:article-b:blindfolded)
+- Artículo C: [Resolución a una mano](regulations:article-c:onehanded) 
+- Artículo D: [Resolución con los pies](regulations:article-d:feet)
+- Artículo E: [Resolución en menos movimientos](regulations:article-e:fewest-moves)
+- Artículo H: [Resolución de Múltiples cubos a ciegas](regulations:article-h:multiple-blindfolded)
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-1><officials><officials> Arículo 1: Miembros Officiales
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-- 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
-- 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
-- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the coloured part clearly recognisable. Unconventional logos are only permitted at the discretion of the Delegate.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4b4+) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 1c3+) [RECOMENDACIÓN] Los resultados deberían estar listos al final del último día de la competencia.
+- 1c3++) [ADICIÓN] Los récords físicos (p. ej. tarjetas de puntaje, soluciones escritas para Resolución en menos movimientos) deben guardarse, al menos, por un mes. Los récords digitales (p. ej. secuencias de mezclas, resultados) deben de guardarse de manera permanente. 
+- 1c3b+) [ACLARACIÓN] Si hay varios grupos, no es necesario identificar qué competidor estaba en qué grupos.
+- 1c4+) [RECOMENDACIÓN] Las correcciones a los resultados deberían estar disponibles en el plazo de una semana de la fecha de la competencia.
+- 1c10+) [ACLARACIÓN] Es suficiente con asegurar el acceso a una copia digital del Reglamento.
+- 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deben usar las mismas secuencias de mezcla. Diferentes grupos deben usar diferentes secuencias de mezcla.
+- 1h++) [RECOMENDACIÓN] Todas las rondas finales de todos los eventos, así como todas las rondas de Resolución en Menos Movimientos, deben tener las mismas secuencias de mezclas para todos los competidores. (p. ej. sólo 1 grupo).
+- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para el progreso de la competencia.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-2><competitors><competitors> Artículo 2: Competidores
 
-- 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured parts.
-- 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
-- 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
-
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 2c+) [ADICIÓN] Los competidores que lo sean por primera vez, deben registrarse usando su nombre legal. Pueden registrarse usando un apodo razonable, a criterio del Delegado WCA.
+- 2c++) [ADICIÓN]  Los competidores no deben proveer intencionalmente información falsa, y los competidores ya registrados deben proveer información consistente con la información que ya han dado anteriormente (p. ej. nombre exacto y ID de la WCA).
+- 2d+) [ADICIÓN] La fecha de nacimiento e información de contacto deben ser especialmente confidencial.
+- 2d++) [RECOMENDACIÓN] Si terceras personas (p. ej. periodistas) pide a la organización ponerse en contacto con cualquier competidor o competidores, debe primeramente pedirle consentimiento a dicho competidor o competidores.
+- 2h+) [ACLARACIÓN] Los competidores pueden estar completamente descalzos para la Resolución con los Pies.
+- 2j2+) [EJEMPLO] Por ejemplo, si un competidor es descalificado de un evento por no presentarse a la ronda final, sus resultados de rondas anteriores siguen siendo válidos.
+- 2s+) [RECORDATORIO] Las adaptaciones especiales deben ser anotadas en el Informe del Delegado.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-3><puzzles><puzzles> Artículo 3: Puzzles
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
-
-
-## <article-9><events><events> Article 9: Events
-
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognises it outside of the competition format.
-- 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
-- 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating his readiness (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not begin it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
+- 3a+) [ACLARACIÓN] Los competidores pueden usar puzzles de cualquier tamaño razonable, a criterio del Delegado WCA.
+- 3a++) [ADICIÓN] Por default,cada competidor debe utilizar el mismo puzzle para los intentos consecutivos en una ronda de speed solving. El competidor puede cambiar de puzzle entre intentos a criterio del juez o Delegado WCA.
+- 3a+++) [ACLARACIÓN] Los competidores pueden tomar prestados puzzles de otros competidores de forma privada, para usarlos en competencia.
+- 3a1+) [ACLARACIÓN] Los competidores pueden ser descalificados si no acuden cuando son llamados, o si no tienen un puzzle listo para entregar (por ejemplo, si pensaban utilizar un puzzle que otro competidor está usando en ese momento, y por tanto no puede entregar su puzzle en ese instante).
+- 3h+) [ACLARACIÓN] Los puzzles pueden ser refinados interiormente, siendo lijados o lubricados.
+- 3h++) [EJEMPLO] Los ejemplos de mejoras incluyen: posibilidad de nuevos movimientos, imposibilidad de movimientos normales, más piezas o caras visibles, colores visibles en la parte trasera del cubo, movimientos automáticos, o el puzzle tiene más/diferentes estados resueltos.
+- 3j+) [RECORDATORIO] Antes, partes grabadas o en relieve estaban permitidas. Esto ya no está permitido. 
+- 3j2+) [ACLARACIÓN] En Clock, las 18 caras internas, son consideradas piezas similares. 
+- 3l+) [ADICIÓN] Los Logotipos pueden tener cualquier diseño razonable que no de una ventaja notoria (p. ej. que tenga información cifrada que pueda usarse para hacer trampa, y tiene que dejar la parte de color claramente reconocible. Los logotipos no convencionales sólo serán permitidos a discreción del Delegado. 
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-4><scrambling><scrambling> Artículo 4: Mezclas
 
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
-
-
-## <article-12><incidents><incidents> Article 12: Notation
-
-- 12c2+) [ADDITION] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5,1) is considered one misalignment, (5,5) is considered two misalignments.
+- 4b1+) [RECORDATORIO] El Delegado WCA no debe regenerar nunca las mezclas para reemplazar otros con el propósito de filtrar. Por ejemplo, no está permitido mirar las mezclas de una competencia y generar de nuevo el lote entero con el propósito de generar mezclas "más justas".
+- 4b2+) [ACLARACIÓN] En general, todas las secuencias de mezcla oficiales deben ser mantenidas en secreto durante la competición y publicadas después del fin de la competencia (ver [Regla 1c3a](regulations:regulation:1c3a)). En algunos casos (p. ej. récords del mundo), el equipo organizador puede querer publicar mezclas específicas poco después del final de una ronda.
+- 4b4+) [ADICIÓN] Se permite que el puzzle cambia de orientación cuando es movido del mezclador a la estación de resolución, siempre y cuando nadie esté intentando influenciar la aleatoriedad de su orientación (ver [Regla A2e1](regulations:regulation:A2e1)).
+- 4d+) [ACLARACIÓN] Algunos puzzles usan esquemas de colores standard, excepto que el negro sustituye al blanco. En este caso, el negro es el color más oscuro y no debe ser tratado como blanco.
+- 4f+) [RECOMENDACIÓN] El Delegado WCA debe generar mezclas suficientes para toda la competencia antes de tiempo, incluyendo mezclas de sobra para intentos extra.
+- 4f++) [RECORDATORIO] Si el Delegado WCA genera mezclas oficiales durante la competencia, debe guardarlas (ver [Regla 1c3a](regulations:regulation:1c3a)).
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-5><puzzle-defects><puzzledefects> Artículo 5: Desperfectos de puzzles
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
-- A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the score taker's discretion.
+- 5b5+) [EJEMPLO] Ejemplos de partes físicamente separadas (no colocadas del todo), que se aceptan como un estado resuelto del puzzle: una tapa central de un 3x3x3, la pieza central de un cubo grande, o la pieza interna de un cubo grande. 
+- 5b5++) [EJEMPLO] Ejemplos de partes físicamente separadas (no colocadas del todo), que producen un DNF: dos tapas  centrales de un 3x3x3, dos piezas centrales de un cubo grande, una arista de un 3x3x3, la arista de un 4x4x4, o cualquier combinación de dos piezas que tengan colores. 
+- 5b5+++) [EJEMPLO] Ejemplo de piezas no colocadas del todo, que producen un estado resuelto del puzzle: un centro de 5x5x5 en su lugar aunque esté girado.
+- 5b5++++) [EJEMPLO] Ejemplo de piezas no colocadas del todo, que producen un DNF: la arista de un 3x3x3 ligeramente salida (ligeramente popeada).
+- 5c+) [RECORDATORIO] Si un competidor tiene un defecto en un puzzle, esto no le da derecho a un intento extra. 
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-6><awards><awards> Artículo 6: Galardones/Premios/Distinciones
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b+++) [REMINDER] Use of the surface is permitted while solving or repairing the puzzle.
+- 6a+) [INDEPENDIENTE][ADICIÓN] Pueden darse galardones, premios o distinciones a los competidores de acuerdo con el anuncio de la competencia.
+- 6b+) [INDEPENDIENTE][RECOMENDACIÓN] Los competidores deben asistir a la ceremonia de entrega de premios para recibir galardones/premios/distinciones.
+- 6b1+) [INDEPENDIENTE][RECOMENDACIÓN] La ceremonia de entrega de premios debe ser celebrada en la zona de competencia, durante la hora posterior al final del último evento.
+- 6c+) [INDEPENDIENTE][RECOMENDACIÓN] Los ganadores de galardones, premios o distinciones deben estar preparados para hablar con periodistas o medios de comunicación que cubran la competencia.
+- 6d+) [INDEPENDIENTE][RECOMENDACIÓN] Los equipos organizadores de competencias deben tener certificados para todos los ganadores de cada categoría, firmados por el líder del equipo organizador y por el Delegado WCA.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-7><environment><environment> Artículo 7: Entorno
 
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
+- 7d+) [INDEPENDIENTE][ADICIÓN] La temperatura de la zona de competición debe estar entre 21 y 25 grados Celsius.
+- 7h2+) [INDEPENDIENTE][ADICIÓN] Los competidores en la zona de competidores no deben ser capaces de ver los puzzles de los competidores en la zona de competencia.
+
+## <article-8><competitions><competitions> Artículo 8: Competencias
+
+- 8a4+) [RECOMENDACIÓN] Los cambios para incrementar el número máximo de competidores en ronda clasificatoria o primera ronda, o para añadir una ronda clasificatoria para competidores recientemente registrados, deben ser hechos al menos un mes antes de la competición (ver [Regla 9r3](regulations:regulation:9r3)).
+- 8a4++) [RECOMENDACIÓN] La competencia debe ser anunciada al menos un mes antes del comienzo de la misma.
+- 8a5+) [INDEPENDIENTE][RECOMENDACIÓN] La competencia debe tener al menos 12 competidores.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-9><events><events> Artículo 9: Eventos
 
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
-- E3b+) [REMINDER] "Rubik's Cube" refers only to the standard 3x3x3 puzzle.
+- 9b+) [ADICIÓN] El formato preferido para la final de un evento es "Promedio de 5" o "Media de 3", si es posible.
+- 9b++) [ADICIÓN] Otros eventos distintos de los especificados en la [Regla 9b](regulations:regulation:9b) pueden ser celebrados durante la competencia, pero serán considerados no oficiales y por tanto no serán incluidos en los resultados oficiales de la competencia.
+- 9b3b+) [ACLARACIÓN] La estadística de “Media de 3” no afecta la posición del competidor en la ronda de “Mejor de 3” (que se basa en el mejor resultado). La WCA la reconoce a fuera del formato de la competencia. 
+- 9f1+) [EJEMPLO] Si el timer muestra un tiempo de 12.678 en un intento, el tiempo que se grabará será de 12.67 (se eliminará todo dígito después de la centésima de segundo). Un juez puede escribir con total precisión el tiempo en la hoja de resultados (y mantener la precisión durante el cálculo de las penalizaciones), siempre y cuando la persona que toma el tiempo elimine esos dígitos extras al escribir el resultado oficial. 
+- 9f4+) [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba preparado (ver [Regla A3b2](regulations:regulation:A3b2)) pero el intento fue descalificado. 
+- 9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera. (ver [Regla A3b2](regulations:regulation:A3b2)). Si el competidor no se clasificó para un intento (por ejemplo, en una ronda combinada), no tiene ningún resultado para el intento.
+- 9q+) [INDEPENDIENTE][RECOMENDACIÓN] Los eventos y rondas deben tener al menos 2 competidores.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-10><solved-state><solvedstate> Artículo 10: Estado resuelto de un puzzle
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 10f+) [EXPLICACIÓN] Los límites de alineamiento se eligen de modo que suponen una frontera natural ente un estado de un puzzle (sin penalización) y otro estado alejado de éste un movimiento.
+
+
+## <article-11><incidents><incidents> Artículo 11: Incidentes
+
+- 11e+) [ACLARACIÓN]  Puesto que una reclamación no es seguro que tenga éxito, el competidor puede elegir dejar el cronómetro corriendo mientras reclama, y continuar con el intento si es apropiado.
+- 11e1+) [RECORDATORIO] El intento extra debe ser mezclado utilizando una secuencia de mezcla oficial no modificada, generada por un mezclador oficial (ver [Regla 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+
+
+## <article-12><incidents><incidents> Artículo 12: Notación
+
+- 12c2+) [ADICIÓN] Cuando se cuentan los movimientos en caso de falta de alineación al final de una solución, “x” y “y” se consideran de manera separada. Ejemplo: (5,1) es considerado como una sola falta de alineación, (5,5) es considerado como dos faltas de alineación. 
+
+
+
+## <article-A><speedsolving><speedsolving> Artículo A: Speed Solving
+
+- A1a2+) [ADICIÓN] En caso de un tiempo límite acumulativo, el juez registra el tiempo original registrado para un DNF en la hoja de resultados entre paréntesis, por ejemplo "DNF (1:02.27)".
+- A1a3+) [RECORDATORIO] El equipo organizador y el Delegado WCA deben ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, yendo más rápido en los dos primeros intentos con la esperanza de superar un corte en una ronda combinada), y que cambiar esos límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
+- A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado retroactivamente, y el juez, competidor y Delegado WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces deben siempre conocer el tiempo límite del intento en curso, (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
+- A2c1+) [RECORDATORIO] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
+- A3c3+) [ACLARACIÓN] Aunque el juez debe reiniciar el cronómetro para el competidor (ver [Regla A3b](regulations:regulation:A3b)), el competidor puede reiniciarlo antes o durante la fase de inspección si el juez accidentalmente no se ocupa de ello.
+- A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido seleccionado para dar respuesta a los errores de funcionamiento de los cronómetros Stackmat.
+- A6g+) [ADICIÓN] Mientras determina si asignar una penalización por mal alineamiento, el juez no debe tocar el puzzle. Excepción: Para Clock, el juez usualmente necesitará levantar el puzzle para verificar ambas caras. 
+- A7c+) [ADICIÓN] Si un resultado que ha sido firmado por un competidor resulta estar incompleto o ser ilegible, deberá interpretarse de la peor manera razonable (p. ej. “1.05” será considerado 1:05:99, “25.X3” Será considerado 25.73 pensando que X pudiera interpretarse como 1 o 7). Teniendo en cuenta que el timer de Stackmat  muestra un tiempo de X:0Y.ss como X:Y.ss,  un dígito de las decenas faltante debe ser considerado más probable que otro dígito faltante (p.ej. "1:2.27" serán considerados 1:02.27). Puede ser que se solicite la aclaración de el juez que firmó un resultado ambiguo, a criterio de la persona  encargada de anotar los resultados.
+
+
+## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a Ciegas
+
+- B1+) [RECORDATORIO] El competidor debe usar un puzzle sin texturas, marcas, u otras características que permitan distinguir piezas similares (ver [Regla 3k](regulations:regulation:3k)). Esto debe ser especialmente importante en la Resolución a Ciegas.
+- B1b+) [RECOMENDACIÓN] Los antifaces deben ser chequeados (verificados) por el Delegado WCA antes de su uso en competencia.
+
+
+## <article-C><one-handed><onehandedsolving> Artículo C: Resolución a una mano
+
+- C1b+) [ACLARACIÓN] El competidor puede usar ambas manos durante la inspección.
+- C1b++) [ACLARACIÓN] El competidor no está obligado a utilizar la misma mano para resolver distintos intentos en la misma ronda.
+- C1b+++) [RECORDATORIO] El uso de la superficie está permitido durante la solución o reparación del puzzle. 
+
+
+## <article-D><feet><solvingwithfeet> Artículo D: Resolución con los pies
+
+- D1b+) [ACLARACIÓN] El competidor puede llevar calcetines para la resolución
+- D1c+) [RECORDATORIO] Mientras se reparan los defectos en un puzzle, otras partes del cuerpo no deben tocar el puzzle.
+
+
+## <article-E><fewest-moves><fewestmovessolving> Artículo E: Resolución en menos movimientos
+
+- E2b+) [ACLARACIÓN] Un competidor puede elegir parar su intento antes de tiempo, proporcionando una solución antes del límite de tiempo.
+- E3b+) [RECORDATORIO] "Cubo de Rubik " se refiere únicamente al puzzle estándar 3x3x3. 
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples cubos a ciegas
+
+- H1b1+) [RECORDATORIO] El intento no está descalificado por alcanzar el límite de tiempo, debido a excepciones para Resolución de Múltiples Cubos a Ciegas (ver [Regla A1a4](regulations:regulation:A1a4) y [Regla A1a5](regulations:regulation:A1a5)).
+- H1b1++) [ADICIÓN] El juez puede permitir al competidor continuar con el intento no oficialmente, pero el intento debe ser parado y juzgado primero, en total acuerdo con las Reglas.
+- H1d+) [EJEMPLO] Ejemplo: Si un competidor intenta 10 cubos, para en un tiempo de 59:57, y tiene dos penalizaciones de tiempo, el tiempo resultante es 59:57 + 2*2= 60:01 (también ver [Regla A1a5](regulations:regulation:A1a5)).
+- H1d++) [EJEMPLO] Ejemplo: Si un competidor intenta 10 cubos, y el juez lo para en un tiempo de 60:00, y tiene dos penalizaciones de tiempo, el tiempo resultante es 60:00 + 2*2= 60:04.
